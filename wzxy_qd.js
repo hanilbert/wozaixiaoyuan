@@ -353,7 +353,6 @@ function requestAddress(timeout = 3 * 1000) {
                         "township": encodeURI(town),
                         "towncode": "0",
                         "citycode": "0",
-                        "street": encodeURI(street),
                         "id": id,
                         "signId": signId,
                     }
